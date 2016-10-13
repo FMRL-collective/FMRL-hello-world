@@ -1,2 +1,2 @@
 # FMRL-hello-world
-FRML Hello World Example
+FMRL Hello World Example
